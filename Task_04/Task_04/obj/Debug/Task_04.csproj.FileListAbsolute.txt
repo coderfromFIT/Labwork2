@@ -1,0 +1,7 @@
+C:\Users\Risco\source\repos\Task_04\Task_04\bin\Debug\Task_04.exe.config
+C:\Users\Risco\source\repos\Task_04\Task_04\bin\Debug\Task_04.exe
+C:\Users\Risco\source\repos\Task_04\Task_04\bin\Debug\Task_04.pdb
+C:\Users\Risco\source\repos\Task_04\Task_04\obj\Debug\Task_04.csproj.AssemblyReference.cache
+C:\Users\Risco\source\repos\Task_04\Task_04\obj\Debug\Task_04.csproj.CoreCompileInputs.cache
+C:\Users\Risco\source\repos\Task_04\Task_04\obj\Debug\Task_04.exe
+C:\Users\Risco\source\repos\Task_04\Task_04\obj\Debug\Task_04.pdb
